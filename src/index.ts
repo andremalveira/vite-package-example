@@ -1,0 +1,2 @@
+
+export { packageExample } from './lib';
